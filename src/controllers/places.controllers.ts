@@ -1,6 +1,6 @@
 import { Router } from 'express';
 
-import { getPlaceById, getPlaces } from './places.services';
+import { getPlaceById, getPlaces } from '../services/places.services';
 
 const router = Router();
 
