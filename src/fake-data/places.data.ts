@@ -61,7 +61,7 @@ export const FakePlaces: IPlaces[] = [
       'El Cotopaxi tiene una elevación de 5.897 msnm es el segundo de más altura del país (siendo precedido por el Chimborazo) y uno de los volcanes activos más altos del mundo. Está situado 50 km al sur de Quito. El Cotopaxi es uno de los más bellos volcanes nevados de Los Andes. En sus alrededores se encuentran caminos y espacios para disfrutar a plenitud de la serranía ecuatoriana.',
     address: 'Cuenca (Ecuador)',
     picture:
-      'https://es.wikipedia.org/wiki/Volc%C3%A1n_Cotopaxi#/media/Archivo:V%C3%B3lcan_Cotopaxi.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/7/74/V%C3%B3lcan_Cotopaxi.jpg',
     province: 'Cotopaxi',
     location: {
       latitude: -0.6622091888712305,
