@@ -1,7 +1,7 @@
 import { Request, Response } from 'express';
 
 let Foods = [
-  { id: 1, name: 'Encevollado', description: 'askfnlksdaf ksfladk f' },
+  { id: 1, name: 'Encebollado', description: 'askfnlksdaf ksfladk f' },
   { id: 2, name: 'Chuleta asada', description: 'askfnlksdaf ksfladk f' },
   { id: 3, name: 'Seco de pollo', description: 'askfnlksdaf ksfladk f' },
 ];
